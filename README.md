@@ -1,3 +1,7 @@
 # Front-End-Development---The-Odin-Project
-PROJECTS:
-<input type="checkbox" checked> Project: Recipes   
+<h1>PROJECTS:</h1>
+<ol> 
+<li>Project: Recipes</li>
+</ol>
+
+  
