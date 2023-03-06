@@ -1,7 +1,7 @@
 # Front-End-Development---The-Odin-Project
 <h1>PROJECTS:</h1>
 
-- [ ] Project: Recipes
-- [ ] Project: Landing Page
+- [x] Project: Recipes
+- [x] Project: Landing Page
 
   
