@@ -7,56 +7,57 @@ body {
     background-image: url(./images/background2.jpg);
     background-size: auto;
     background-repeat: no-repeat;
-    margin:0;
+    margin: 0;
     padding: 50px;
-    
-    
+
+
 }
 
 
 
-  
-  .logo {
+
+.logo {
     margin-right: 20px;
     height: 10px;
-  }
-  .logo h1 {
-    color: #F9FAF8;
-position: absolute;
-top: 40px;
-left: 90px;
-  }
+}
 
-  .logo img {
+.logo h1 {
+    color: #F9FAF8;
+    position: absolute;
+    top: 40px;
+    left: 90px;
+}
+
+.logo img {
     height: 60px;
     position: absolute;
     left: 335px;
     top: 55px;
-  }
-  
-  nav ul {
+}
+
+nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
-  }
-  
-  nav ul li {
+}
+
+nav ul li {
     float: right;
-  }
-  
-  nav ul li a {
+}
+
+nav ul li a {
     display: block;
     color: #fff;
     text-align: center;
     padding: 0 20px;
     line-height: 50px;
     text-decoration: none;
-  }
-  
-  nav ul li a:hover {
+}
+
+nav ul li a:hover {
     background-color: rgba(160, 77, 63, 0.3);
-  }
-  
+}
+
 .header1 h1 {
     color: #F9FAF8;
     font-size: 48px;
@@ -113,32 +114,34 @@ left: 90px;
     background-color: rgba(160, 77, 63, 0.3);
     padding: 8px;
     ;
-    
+
 }
+
 .headers p {
     background-color: rgba(160, 77, 63, 0.3);
     padding: 8px;
     color: #E5E7EB;
-    
+
 }
 
 .container {
     display: flex;
     justify-content: center;
-align-items: center;
-height: auto;
+    align-items: center;
+    height: auto;
 
 }
+
 #header {
     color: #ffffff;
     display: flex;
     justify-content: center;
     height: 80px;
-    
-    
+
+
 }
 
-.container2{
+.container2 {
     display: flex;
     justify-content: space-around;
     margin-left: 10%;
@@ -146,6 +149,7 @@ height: auto;
     align-items: center;
     height: 330px;
 }
+
 #header h1 {
     display: flex;
     align-items: center;
@@ -153,49 +157,59 @@ height: auto;
     padding: 10px;
     background-color: rgba(160, 77, 63, 0.3);
 }
+
 .heading-image {
     border-style: solid;
     border-color: rgba(160, 77, 63, 0.3);
 }
+
 #box1 {
     border-style: solid;
     border-color: rgba(160, 77, 63, 0.3);
     display: flex;
 
 }
+
 #box2 {
     border-style: solid;
     border-color: rgba(160, 77, 63, 0.3);
-    
+
 }
+
 #box3 {
     border-style: solid;
     border-color: rgba(160, 77, 63, 0.3);
 }
+
 #box4 {
     border-style: solid;
     border-color: rgba(160, 77, 63, 0.3);
 }
-.button a{
+
+.button a {
     background-color: rgba(160, 77, 63, 0.3);
-    color:#E5E7EB ;
+    color: #E5E7EB;
     padding: 20px;
 }
+
 #p1 {
     color: #E5E7EB;
     display: flex;
     justify-content: center;
 }
+
 #p2 {
     color: #E5E7EB;
     display: flex;
     justify-content: center;
 }
+
 #p3 {
     color: #E5E7EB;
     display: flex;
     justify-content: center;
 }
+
 #p4 {
     color: #E5E7EB;
     display: flex;
