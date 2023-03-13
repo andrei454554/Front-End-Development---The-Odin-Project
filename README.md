@@ -3,5 +3,6 @@
 
 - [x] Project: Recipes
 - [x] Project: Landing Page
+- [x] Project: Rock, Paper, Scissors
 
   
